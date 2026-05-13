@@ -1,0 +1,22 @@
+# Ignore compiled files
+*.exe
+*.o
+*.obj
+
+# Ignore Dev-C++ / IDE files
+*.layout
+*.dev
+*.win
+
+# Ignore Visual Studio files
+.vs/
+Debug/
+Release/
+x64/
+*.sln
+*.vcxproj
+*.vcxproj.user
+
+# Ignore temporary files
+*.log
+*.tmp
